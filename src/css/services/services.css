@@ -1,0 +1,17 @@
+@import './services__block-card-figure.css';
+@import './services__block-card.css';
+@import './services__card.css';
+@import './services__card--grid--pos-one.css';
+@import './services__card--grid--pos-two.css';
+@import './services__card--grid--pos-three.css';
+@import './services__card--grid--pos-four.css';
+@import './services__card-img.css';
+@import './services__block-text--position.css';
+@import './service__img.css';
+@import './services__block-text.css';
+@import './services__head.css';
+@import './services__content.css';
+@import './services__figures.css';
+@import './@media-width-max-1024/services--media-max-width__1024.css';
+@import './@media-width-max-768/services--media-max-width__768.css';
+@import './@media-width-max-450/services-nav--media-max-width__450.css';

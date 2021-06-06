@@ -1,0 +1,7 @@
+@import './footer--height.css';
+@import './footer--infoname.css';
+@import './footer__info.css';
+.footer{
+    display: block;
+    background-color: rgb(44,71,85);
+}

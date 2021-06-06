@@ -1,0 +1,13 @@
+@import './info__text.css';
+@import './info__text--text.css';
+@import './info__text--head.css';
+@import './info__text--email.css';
+@import './info__block-text.css';
+@import './@media-width-max-450/info-nav--media-max-width__450.css';
+@import './@media-width-max-320/info-nav--media-max-width__320.css';
+.info{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(2, 1fr); 
+    background-color: rgb(240,240,240);
+}

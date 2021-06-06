@@ -1,0 +1,9 @@
+@media (max-width:768px) {
+    .services__figures{
+        height: 300px;
+        width: 200px;
+    }
+    .services__block-text{
+        font-size: 15px;
+    }
+}

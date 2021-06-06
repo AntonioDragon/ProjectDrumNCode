@@ -1,0 +1,6 @@
+.contact__info{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(2, 1fr); 
+    background-color: rgb(240,240,240);
+}

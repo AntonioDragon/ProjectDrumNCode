@@ -1,0 +1,7 @@
+.greeting-cards--position--center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80px;
+    width: 80px;
+}

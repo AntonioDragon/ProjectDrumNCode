@@ -1,0 +1,8 @@
+@media (max-width:450px) {
+    .menu-nav__toggle:checked ~ .toggle-container > .toggle-container__button {
+        right: 190px;
+      }
+    .menu-nav__toggle-container{
+        right: 30px;
+    }
+}

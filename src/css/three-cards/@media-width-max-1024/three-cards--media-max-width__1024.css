@@ -1,0 +1,23 @@
+@media (max-width:1024px) {
+    .three-cards{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(6, 1fr);
+    }
+    .three-cards__img--size{
+        height: 300px;
+        width: 100%;
+    }
+    .three-cards__block{
+        margin-top: 30px;
+    }
+    .three-cards__block--grid--pos-one{
+        grid-area: 1 / 2 / 2 / 6;
+    }
+    .three-cards__block--grid--pos-two{
+        grid-area: 2 / 2 / 3 / 6; 
+    }
+    .three-cards__block--grid--pos-three{
+        grid-area: 3 / 2 / 4 / 6;
+    }
+}

@@ -1,0 +1,39 @@
+@media (max-width:768px) {
+    .greeting-cards--grid{
+        grid-template-columns: 0.5fr repeat(4, 1fr) 0.5fr;
+        grid-template-rows: repeat(3, 1fr);
+    }
+    .greeting-cards__block--grid--column-one{
+        grid-area: 1 / 2 / 2 / 6;
+        padding: 25px;
+    }
+    .greeting-cards__block--grid--column-two{
+        grid-area: 2 / 2 / 3 / 6; 
+        padding: 25px;    
+    }
+    .greeting-cards__block--grid--column-three{
+        grid-area: 3 / 2 / 4 / 6; 
+        padding: 25px;
+    }
+    .greeting-cards__block--shadow{
+        box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    }
+   
+    .three-cards__block{
+        margin-top: 30px;
+    }
+
+    .three-cards__text{
+        font-family: 'Kanit', sans-serif;
+        font-weight: 200;
+        font-size: 15px;
+        color: rgb(68, 68, 68);
+    }
+    .three-cards__text--font--weight{
+        font-weight: 800;
+    }
+
+    .three-cards__img--size{
+        height: 250px;
+    }
+}

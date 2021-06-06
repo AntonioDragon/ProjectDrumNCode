@@ -1,0 +1,13 @@
+@import './about--height.css';
+@import './about__block-text.css';
+@import './about__content.css';
+@import './about__figure.css';
+@import './about__img.css';
+@import './about__text--font--size-main.css';
+@import './about__text--font--size-secondary.css';
+@import './about__text.css';
+@import './about__underline.css';
+@import './@media-width-max-1024/about--media-max-width__1024.css';
+@import './@media-width-max-768/about--media-max-width__768.css';
+@import './@media-width-max-450/about-nav--media-max-width__450.css';
+@import './@media-width-max-320/about-nav--media-max-width__320.css';

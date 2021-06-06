@@ -1,0 +1,8 @@
+@import './portfolio--size.css';
+@import './portfolio__cards.css';
+@import './@media-width-max-1024/portfolio--media-max-width__1024.css';
+@import './@media-width-max-768/portfolio--media-max-width__768.css';
+@import './@media-width-max-450/portfolio-nav--media-max-width__450.css';
+.portfolio{
+    background-color: rgb(240,240,240); 
+}

@@ -1,0 +1,5 @@
+.services__figures{
+    grid-area: 1 / 9 / 5 / 11;
+    height: 300px;
+    width: 300px;
+}

@@ -1,0 +1,4 @@
+.greeting-cards__block--grid--column-two{
+    grid-area: 1 / 3 / 4 / 5;
+    padding: 25px;    
+}

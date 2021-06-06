@@ -1,0 +1,10 @@
+@import './greeting--size.css';
+@import './greeting__title.css';
+@import './greeting__item.css';
+@import './greeting__content.css';
+
+.greeting{
+    display:block;
+    background-color: rgba(246, 246, 246);
+    box-shadow: 3px ;
+}

@@ -1,0 +1,5 @@
+.title__subtitle{
+    grid-area: 2 / 2 / 3 / 6;
+    text-align: center;  
+    padding-top:10px;
+}

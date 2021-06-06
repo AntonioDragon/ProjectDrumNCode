@@ -1,0 +1,11 @@
+@import './title__head.css';
+@import './title__head--muted.css';
+@import './title__subtitle.css';
+@import './title__subtitle--active.css';
+@import './@media-width-max-450/title-nav--media-max-width__450.css';
+
+.title{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}

@@ -1,0 +1,19 @@
+@import './three-cards__block.css';
+@import './three-cards__card-text.css';
+@import './three-cards__img--size.css';
+@import './three-cards__img.css';
+@import './three-cards__text--font--weight.css';
+@import './three-cards__text.css';
+@import './three-cards__block--grid--pos-one.css';
+@import './three-cards__block--grid--pos-two.css';
+@import './three-cards__block--grid--pos-three.css';
+@import './@media-width-max-1024/three-cards--media-max-width__1024.css';
+@import './@media-width-max-768/three-cards-nav--media-max-width__768.css';
+@import './@media-width-max-450/three-cards-nav--media-max-width__450.css';
+
+
+.three-cards{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}

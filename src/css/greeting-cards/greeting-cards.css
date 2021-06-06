@@ -1,0 +1,16 @@
+@import './greeting-cards__block.css';
+@import './greeting-cards__block--grid--column-one.css';
+@import './greeting-cards__block--grid--column-two.css';
+@import './greeting-cards__block--grid--column-three.css';
+@import './greeting-cards__block--shadow.css';
+@import './greeting-cards--position--center.css';
+@import './greeting-cards__img.css';
+@import './greeting-cards__item.css';
+@import './greeting-cards__item--font--weight.css';
+@import './@media-width-max-768/greeting-cards--media-max-width__768.css';
+
+.greeting-cards{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}

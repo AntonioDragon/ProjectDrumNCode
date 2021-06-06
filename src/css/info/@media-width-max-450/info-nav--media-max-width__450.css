@@ -1,0 +1,11 @@
+@media (max-width:450px) {
+    .info__text--email{
+        font-size: 22px;
+    }
+    .info__text--text{
+        font-size: 12px;
+    }
+    .info__text--head{
+        font-size: 25px;
+    }
+}

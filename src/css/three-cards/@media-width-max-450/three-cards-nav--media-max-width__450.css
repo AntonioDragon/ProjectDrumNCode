@@ -1,0 +1,11 @@
+@media (max-width:450px) {
+    .three-cards__img--size{
+        height: 210px;
+    }
+    .three-cards__block{
+        margin-top: 30px;
+    }
+    .three-cards__text{
+        font-size: 15px;
+    }
+}

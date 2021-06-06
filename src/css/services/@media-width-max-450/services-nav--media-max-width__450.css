@@ -1,0 +1,5 @@
+@media (max-width:450px) {
+    .services__figures{
+        display: none;
+    }
+}

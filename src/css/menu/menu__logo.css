@@ -1,0 +1,4 @@
+.menu__logo{
+    grid-area: 1 / 2 / 2 / 3;
+    padding-top: 13px;
+}

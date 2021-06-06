@@ -1,0 +1,4 @@
+.about__figure{
+    grid-area: 1 / 2 / 3 / 4;
+    display: block;
+}

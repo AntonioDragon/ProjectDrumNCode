@@ -1,0 +1,8 @@
+@media (max-width:450px) {
+    .title__head--muted{    
+        font-size: 60px;
+    }
+    .title__subtitle--active{
+        font-size: 13px;
+    }
+}

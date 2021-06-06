@@ -1,0 +1,10 @@
+@media (max-width:450px) {
+    .portfolio--size{
+        height: 1400px;
+    }
+    
+    .portfolio__cards{
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(3, 1fr);
+    }
+}

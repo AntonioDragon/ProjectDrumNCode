@@ -1,0 +1,8 @@
+@import './menu--height.css';
+@import './menu__logo.css';
+
+.menu{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 1fr;  
+}

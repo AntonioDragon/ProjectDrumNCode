@@ -1,0 +1,7 @@
+.about__underline{
+    border: none;
+    background-color:rgb(14, 179, 162); 
+    color: rgb(14, 179, 162); 
+    height: 2px;
+    width: 60%;
+}
